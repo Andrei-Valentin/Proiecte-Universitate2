@@ -75,12 +75,7 @@ def cautare():
     
     
 
-    
-    
-    
-    
-    
-    
+ 
     
     
 imagine = Image.open(r"C:\Users\Andrei\.spyder-py3\bg5.png")
@@ -175,17 +170,6 @@ butonAlegere.bind("<Leave>", lambda e: butonAlegere.config(fg='blue', bg='#8aa5c
 butonAlegere.place(x=560,y=580)
 
 
-# =============================================================================
-# imagine = Image.open(r"C:\Users\Andrei\.spyder-py3\default.png")
-# imagine = imagine.resize((300, 300), Image.ANTIALIAS)
-# imagine = ImageTk.PhotoImage(imagine)
-# 
-# img = Label(window, image = imagine)
-# img.image = imagine
-# img.place(x=400,y=150)
-# =============================================================================
-
- 
 
 window.title('Interfata algoritmi')
 window.geometry("1100x700+10+10")
