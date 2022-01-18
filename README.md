@@ -1,2 +1,2 @@
 # Proiecte-Universitate2
-Proiecte anul III, FMI Ovidius
+Proiecte anul III, FMI Universitatea Ovidius
