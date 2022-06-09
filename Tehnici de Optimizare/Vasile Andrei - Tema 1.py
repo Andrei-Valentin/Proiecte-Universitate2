@@ -84,4 +84,17 @@ ax = plt.axes(projection='3d')
 #ax.set_title('Regresie surface')
 #ax.view_init(60, 35)#cota de 60 grade(pe plan x-y) si 35 grade azimuth
 
+#Pentru regresia liniara:
+#SSE: 639.2473194000423
+#MAE: 1.114529815496337
+#MSE: 2.53669571190493
+#RMSE: 1.5927007603140428
+#R^2: 0.3762719019680185
+
+#Pentru regresia polinomiala:
+#SSE: 784.3649408830786
+#MAE: 1.2559646469304369
+#MSE: 3.1125592892185656
+#RMSE: 1.7642446795211162
+#R^2: 0.23467734960682907
 
